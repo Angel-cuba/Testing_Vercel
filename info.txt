@@ -1,0 +1,3 @@
+Aqui todo funciona, la iteracion de componentes y los links, ya creados con los ROUTERS, que son las llamadas rutas dinámicas.
+Hay errores con la llamada de la info mediante el ID para buscar la info por cada usuario en particular....
+NOTA: Hay que buscar la forma de hacer un link que me lleva dirtectamente al usuarioen cuestion.
